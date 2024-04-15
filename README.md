@@ -1,2 +1,2 @@
 # Quantum4ClimateChange
-YQuantum2024 Hackathon Submission
+Using NASA Earth Observational data on classification task using Qiskit QSVM algorithm. 
