@@ -1,7 +1,8 @@
 # Quantum4ClimateChange
 Using NASA Earth Observational data on classification task using IBM Quantum Computer. 
 
-Abstract—Climate change refers to significant and long-term
+### Abstract—
+Climate change refers to significant and long-term
 alterations in the Earth’s climate patterns, typically resulting
 from human activities that increase greenhouse gas emissions.
 Addressing climate change is not merely an option but a
@@ -32,3 +33,9 @@ The methodology and results sections describe the experiences
 gained from applying and evaluating quantum ML results on
 climate and weather data obtained from NASA satellites as a
 novel practical application of quantum computing.
+
+
+### Project Workflow, Dataset Description and Maps Generated using Giovanni tool
+
+![Project_WorkFlow_Dataset_Description_Maps](https://github.com/user-attachments/assets/0d3a473e-47ed-4156-bde1-dbbcb513672b)
+
