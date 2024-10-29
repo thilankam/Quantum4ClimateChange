@@ -3,7 +3,7 @@ Using NASA Earth Observational data on Quantum Machine Learning classification t
 
 # This work is now featured on NASA Technical Report Server (NASA NTRS)
 
-# NASA links to view:
+# NASA links to view the project:
 ## https://ntrs.nasa.gov/citations/20240011142
 
 ## https://ntrs.nasa.gov/api/citations/20240011142/downloads/Quantum_poster20240828.pdf
