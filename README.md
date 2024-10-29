@@ -2,7 +2,7 @@
 Using NASA Earth Observational data on Quantum Machine Learning classification task using IBM 127-qubits Quantum Computer. 
 
 # This work is now featured on NASA Technical Report Server (NASA NTRS)
-https://ntrs.nasa.gov/citations/20240011142
+## https://ntrs.nasa.gov/citations/20240011142
 
 https://ntrs.nasa.gov/api/citations/20240011142/downloads/Quantum_poster20240828.pdf
 
